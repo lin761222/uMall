@@ -1,3 +1,3 @@
-uMall¶i¾P¦s¨t²Î
-	¦b«í¼ÝJava¥þ¤è­±¶}µo¯Z²Ä¤@¶¥¬q½Òµ{§¹¦¨ªº§@«~
-	³z¹LGUI»PMySQL³sµ²°µªº·s¼W¡B­×§ï¡B§R°£¡B¬d¸ß¥\¯à(«È¤áand²£«~)
+ï»¿uMallé€²éŠ·å­˜ç³»çµ±
+	åœ¨æ†æ¯…Javaå…¨æ–¹é¢é–‹ç™¼ç­ç¬¬ä¸€éšŽæ®µèª²ç¨‹å®Œæˆçš„ä½œå“
+	é€éŽGUIèˆ‡MySQLé€£çµåšçš„æ–°å¢žã€ä¿®æ”¹ã€åˆªé™¤ã€æŸ¥è©¢åŠŸèƒ½(å®¢æˆ¶andç”¢å“)
